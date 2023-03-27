@@ -1,0 +1,6 @@
+/.idea
+/flappy
+/flappy_env.py
+/flappy_evaluator.py
+/flappy_gui.py
+/__pycache__
